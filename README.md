@@ -1,6 +1,6 @@
 ### Hi! I'm KeeSung
-- Studying Web Programming since Feb 2023  ~
-- Working at TA9 since Jul 2023 ~
+- Studying Web Programming since 2023.02  ~
+- Working at TA9 since 2023.07 ~
 ### 💪Skills
 
 <p align="left" dir="auto">
