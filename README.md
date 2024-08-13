@@ -1,6 +1,10 @@
 ### Hi! I'm KeeSung
 - Studying Web Programming since 2023.02  ~
 - Working at TANINE since 2023.07 ~
+
+### Licences
+- 정보처리기사 (2024.06.18)
+- SQLD (2023.10.06)
 ### 💪Skills
 
 <p align="left" dir="auto">
